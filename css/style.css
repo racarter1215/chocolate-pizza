@@ -92,4 +92,78 @@ article p {
     margin-bottom: 60px;
 }
 
-#left
+#leftlist {
+    display: inline-block;
+    font-family: 'Patrick Hand', cursive;
+    margin-left: 50px;
+    margin-top: 40px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+#rightlist {
+    display: inline-block;
+    font-family: 'Patrick Hand', cursive;
+    margin-left: 150px;
+    margin-top: 40px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+#biography {
+    width: 960px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#human {
+    display: inline-block;
+    width: 70px;
+    height: auto;
+}
+
+#biographytext {
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+    width: 600px;
+}
+
+#biographytext h3 {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#submit {
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px 35px 15px 35px;
+    margin-left: 85px;
+    margin-top: 10px;
+    color: rgb(238, 238, 238);
+    background-color: rgb(161, 53, 53);
+}
+
+#copyright {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#footerlogo {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 50%;
+    display: inline-block;
+    margin-bottom: 60px;
+}
